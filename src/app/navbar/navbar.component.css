@@ -1,0 +1,23 @@
+*{
+    font-family: "poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand{
+    width: 40% !important;
+    display: inline-block;
+}
+.header-wraper{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+ul{
+    font-size: large;
+    font-weight: 500;
+}
+.chat-icon{
+    position: fixed;
+  bottom: 20px; 
+  right: 20px; 
+  z-index: 1000; 
+}
